@@ -4,9 +4,14 @@ This is openclash-rule
 # Lean rule
 1.nodnsleak.ini
 
-2.Forengn-Domestic-rules.int
-including Direct-Hugo.list
+2.Foreign-Domestic-rules.ini
+including Direct.list and Proxy.list
+
+3.Domestic-Foreign-rules.ini
+including Direct.list and Proxy.list
+
+4.Global-rules.ini
+including Direct.list
 
 
-# Self use
-1.###为自用分流版本，常用的国外网址优先
+
