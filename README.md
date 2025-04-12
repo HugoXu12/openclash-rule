@@ -14,6 +14,7 @@
 ### 4. Global-rules.ini  
 - Direct.list
 
+### 规则链接https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config
 
 
 
