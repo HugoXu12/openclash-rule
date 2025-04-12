@@ -1,7 +1,7 @@
 # openclash-rule
 This is openclash-rule
 
-# Lean rule
+Lean's rule
 1.nodnsleak.ini
 
 2.Foreign-Domestic-rules.ini
