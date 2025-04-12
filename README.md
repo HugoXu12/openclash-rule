@@ -1,10 +1,12 @@
 # openclash-rule
 This is openclash-rule
 
-# 商用版本
-1.###为全局版本
+# Lean rule
+1.nodnsleak.ini
 
-2.###为分流版本
+2.Forengn-Domestic-rules.int
+including Direct-Hugo.list
 
-# 自用版本
+
+# Self use
 1.###为自用分流版本，常用的国外网址优先
