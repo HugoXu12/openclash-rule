@@ -1,4 +1,4 @@
-# OpenClash Rule
+# OpenClash Rules
 
 ### 1. nodnsleak.ini  
 - Lean's rule
