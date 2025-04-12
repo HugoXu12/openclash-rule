@@ -1,17 +1,19 @@
-# openclash-rule
-This is openclash-rule
+# OpenClash Rule
 
-Lean's rule 
-1.nodnsleak.ini
+### 1. nodnsleak.ini  
+- Lean's rule
 
-2.Foreign-Domestic-rules.ini
-including Direct.list and Proxy.list
+### 2. Foreign-Domestic-rules.ini  
+- Direct.list  
+- Proxy.list
 
-3.Domestic-Foreign-rules.ini
-including Direct.list and Proxy.list
+### 3. Domestic-Foreign-rules.ini  
+- Direct.list  
+- Proxy.list
 
-4.Global-rules.ini
-including Direct.list
+### 4. Global-rules.ini  
+- Direct.list
+
 
 
 
