@@ -6,7 +6,6 @@
 # GEOIP:通过 MaxMind GeoIP 匹配国家代码，例如 GEOIP,CN。可添加 no-resolve 以避免触发 DNS 解析
 
 DOMAIN-SUFFIX,myhd.pro
-DOMAIN-SUFFIX,time.window.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
 
