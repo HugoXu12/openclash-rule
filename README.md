@@ -1,7 +1,7 @@
 # OpenClash Rules
 
 ### 1. nodnsleak.ini  
-- Lean's rule
+- bulianglin's rule
 
 ### 2. Foreign-Domestic-rules.ini  
 - Direct.list  
