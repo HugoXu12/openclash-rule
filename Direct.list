@@ -7,9 +7,11 @@
 
 DOMAIN-SUFFIX,myhd.pro
 DOMAIN-SUFFIX,time.window.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-WILDCARD,time.*.apple.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
-DOMAIN-WILDCARD,time.*.apple.com
+
 
 
 
